@@ -1,6 +1,6 @@
 # Rfunctions
 
-**Rdiagnostic**
+**Rdiagnostic and Contrast analysis**
 
     Function from RT4BIO package.
     Original authors: Ronaldo Reis Junior, Gladson Ramon Alves Borges and Magnel Lima de Oliveira.
