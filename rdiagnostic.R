@@ -352,3 +352,5 @@ coms <- function(qvar=NULL,mma=NULL,siglevel=0.05) {
   cat("Mean by factor levels considering the analysis of contrast\n")
   print(sort(tapply(eval(mma$call[[2]][[2]]),qvarmma,mean,na.rm=TRUE)))
 }
+
+# coms(qvar="VariávelCategórica", mma=modelo)
